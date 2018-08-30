@@ -1,0 +1,28 @@
+{
+  "name": "webpack-primer3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Slient",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "3.3.1",
+    "mustache": "2.3.0"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "babel-loader": "7.1.4",
+    "babel-preset-es2015": "6.24.1",
+    "clean-webpack-plugin": "0.1.19",
+    "css-loader": "0.28.11",
+    "extract-text-webpack-plugin": "3.0.2",
+    "html-loader": "0.5.5",
+    "node-sass": "4.9.0",
+    "sass-loader": "7.0.1",
+    "style-loader": "0.21.0",
+    "webpack": "4.8.3"
+  }
+}
